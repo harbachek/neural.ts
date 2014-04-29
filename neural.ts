@@ -1,3 +1,11 @@
+/*
+ * neural.ts
+ * Author: Alexander Ivanov - ttecss at gmail
+ *
+ * This code is distributed under the WTFPL License. For more info check:
+ * http://www.wtfpl.net/txt/copying/
+ */
+
 function random(from: number = 0, to: number = 0xFFFFFFFF)
 {
 	if( from > to )
